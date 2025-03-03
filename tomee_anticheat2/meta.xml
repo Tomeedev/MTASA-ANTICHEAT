@@ -1,0 +1,12 @@
+<meta>
+    <script src="sourceC.luac" type="client" cahce="false" />
+    <script src="sourceG.luac" type="shared" cahce="false" />
+    <script src="sourceS.luac" type="server" />
+    
+    <script src="screenshotS.luac" type="server" />
+    <script src="screenshotC.luac" type="client" cahce="false" />
+    
+    <export function="sendDiscordMessage" type="server" />
+    <min_mta_version client="1.6.0" server="1.6.0" />
+    <download_priority_group>-3</download_priority_group>
+</meta>
