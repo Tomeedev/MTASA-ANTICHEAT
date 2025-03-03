@@ -1,0 +1,6 @@
+<meta>
+    <info author="o22's Scripts" />
+    <script src="src/main_c.lua" type="client" cache="false" />
+    <script src="src/main_s.lua" />
+    <min_mta_version server="1.5.4-9.11413" />
+</meta>
